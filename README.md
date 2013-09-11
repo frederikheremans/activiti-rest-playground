@@ -1,4 +1,4 @@
 activiti-rest-playground
 ========================
 
-Playground for Activiti
+Playground for Activiti Rest
